@@ -1,0 +1,75 @@
+.upper{
+  background-color: #1d3557;
+  padding: 10px;
+  font-family: 'Mukta', sans-serif;
+  color: white;
+}
+
+.titles{
+  color: #2a9d8f
+}
+.img {
+
+
+  width: 150px;
+  height: 150px;
+  background-image: url('image_6487327.JPG');
+  background-size: cover;
+  display: block;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+}
+.downupper{
+  background-color: #023047;
+  font-family: 'Mukta', sans-serif;
+  padding: 5px;
+  color: white;
+  text-align: center;
+}
+.tabletitles{
+  font-family: 'Mukta', sans-serif;
+  width: 50%;
+  color: #2a9d8f;
+  text-decoration: underline;
+  text-align: left;
+}
+.skillstable{
+  background-color: #023047;;
+  border: 4px solid white;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+  font-family: 'Mukta', sans-serif;
+
+
+}
+.text{
+  font-family: 'Mukta', sans-serif;
+}
+.links{
+  width: 80px;
+  height: 50px;
+
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
